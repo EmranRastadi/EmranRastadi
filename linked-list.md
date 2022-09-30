@@ -2,7 +2,7 @@
 # Usedage linked-list
 
 
-### Time complexity
+- ### Time complexity
 
 **Insert to i-th element :** O(n)
 
@@ -16,7 +16,7 @@
 
 **Insert element at end :** O(n)
 
-## Complete Code
+- ## Complete Code
 
 ```javascript
 class Node {
