@@ -2,6 +2,14 @@
 # Usedage linked-list
 
 
+### Time complexity
+** Insert to i-th element : ** O(n)
+** Traverse all elements : ** O(n)
+** Insert element at current point : ** O(1)
+** Delete current element : ** O(1)
+** Insert element at front : ** O(1)
+** Insert element at end : ** O(n)
+
 ## Complete Code
 
 ```javascript
