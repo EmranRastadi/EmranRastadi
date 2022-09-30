@@ -1,6 +1,6 @@
 ## binary search O(logn)
 
-```
+```javascript
 function binarySearch(arr , target){
     let letfIndex = 0;
     let rightIndex = arr.length -1 ;
